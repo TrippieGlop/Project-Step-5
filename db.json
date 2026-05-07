@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Mouse",
+      "price": 19.99,
+      "image": "/images/mouse.svg",
+      "description": "Reliable wireless mouse for everyday use."
+    },
+    {
+      "id": "2",
+      "title": "Bluetooth Headphones",
+      "price": 49.99,
+      "image": "/images/headphones.svg",
+      "description": "Comfortable headphones with strong sound."
+    },
+    {
+      "id": "3",
+      "title": "Mechanical Keyboard",
+      "price": 79.99,
+      "image": "/images/keyboard.svg",
+      "description": "Responsive keyboard for typing and gaming."
+    },
+    {
+      "id": "4",
+      "title": "Gaming Monitor",
+      "price": 199.99,
+      "image": "/images/monitor.svg",
+      "description": "High refresh rate monitor for smooth gameplay."
+    },
+    {
+      "id": "5",
+      "title": "USB-C Charger",
+      "price": 25.99,
+      "image": "/images/charger.svg",
+      "description": "Fast charging USB-C power adapter."
+    },
+    {
+      "id": "6",
+      "title": "Laptop Stand",
+      "price": 34.99,
+      "image": "/images/stand.svg",
+      "description": "Ergonomic laptop stand."
+    },
+    {
+      "id": "7",
+      "title": "External Hard Drive",
+      "price": 89.99,
+      "image": "/images/harddrive.svg",
+      "description": "Portable storage device."
+    },
+    {
+      "id": "8",
+      "title": "Webcam HD",
+      "price": 59.99,
+      "image": "/images/webcam.svg",
+      "description": "1080p webcam for meetings and streaming."
+    },
+    {
+      "id": "9",
+      "title": "Gaming Chair",
+      "price": 149.99,
+      "image": "/images/chair.svg",
+      "description": "Comfortable chair for long sessions."
+    },
+    {
+      "id": "10",
+      "title": "Smartphone Tripod",
+      "price": 18.99,
+      "image": "/images/tripod.svg",
+      "description": "Flexible tripod for phones and cameras."
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
